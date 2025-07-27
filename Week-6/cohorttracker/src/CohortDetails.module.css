@@ -1,0 +1,30 @@
+.Box
+{
+    width: 300px;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+}
+.dt
+{
+    font-weight: 500;
+}
+.Green {
+  color: green;
+}
+
+.Blue {
+  color: blue;
+}
+.Container {
+  display: flex;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid black;
+  flex-wrap: wrap; 
+  gap: 20px; 
+}
+
